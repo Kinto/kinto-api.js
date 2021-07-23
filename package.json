@@ -59,7 +59,7 @@
     "@rollup/plugin-multi-entry": "^4.0.0",
     "@rollup/plugin-node-resolve": "^13.0.0",
     "@rollup/plugin-replace": "^3.0.0",
-    "@rollup/plugin-typescript": "^3.0.0",
+    "@rollup/plugin-typescript": "^8.2.3",
     "@types/node-fetch": "^2.5.5",
     "@types/shelljs": "^0.8.5",
     "@types/sinon": "^10.0.0",
